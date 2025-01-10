@@ -15,19 +15,19 @@
   - [x] Total de fazendas cadastradas (quantidade).
   - [x] Total de hectares registrados (área total).
   - [x] Gráficos de pizza:
-    - Por estado.
-    - Por cultura plantada.
-    - Por uso do solo (área agricultável e vegetação).
+    - [x] Por estado.
+    - [x] Por cultura plantada.
+    - [x] Por uso do solo (área agricultável e vegetação).
 
 - **Página dos Produtores (/produtor)**
 
   - [x] Lista todos os produtores cadastrados com paginação;
   - [x] Permite editar e deletar produtores já cadastrados, além de adicionar novos;
-    - Valida o CPF ou CNPJ fornecido pelo usuário.
-    - Garante que a soma das áreas agricultável e de vegetação não ultrapasse a área total da fazenda nem que a área total seja igual ou menor que 0.
-    - Permite o registro de várias propriedades do produtor, além das culturas plantadas por cada uma delas.
-    - O produtor pode estar associado a 0, 1 ou mais propriedades rurais.
-    - Uma propriedade rural pode ter 0, 1 ou mais culturas plantadas por safra.
+    - [x] Valida o CPF ou CNPJ fornecido pelo usuário.
+    - [x] Garante que a soma das áreas agricultável e de vegetação não ultrapasse a área total da fazenda nem que a área total seja igual ou menor que 0.
+    - [x] Permite o registro de várias propriedades do produtor, além das culturas plantadas por cada uma delas.
+    - [x] O produtor pode estar associado a 0, 1 ou mais propriedades rurais.
+    - [x] Uma propriedade rural pode ter 0, 1 ou mais culturas plantadas por safra.
 
 ## Deploy da Aplicação na vercel
 
