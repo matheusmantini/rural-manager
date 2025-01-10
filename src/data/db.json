@@ -1,0 +1,327 @@
+{
+  "producers": [
+    {
+      "id": 1,
+      "cpfOrCnpj": "123.456.789-00",
+      "name": "João da Silva",
+      "properties": [
+        {
+          "id": 1,
+          "name": "Fazenda Sol Nascente",
+          "city": "Ribeirão Preto",
+          "state": "SP",
+          "totalArea": 100,
+          "agriculturalArea": 70,
+          "vegetationArea": 30,
+          "crops": [
+            {
+              "id": 1,
+              "season": "2021",
+              "culture": "Soja"
+            },
+            {
+              "id": 2,
+              "season": "2022",
+              "culture": "Milho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cpfOrCnpj": "456.789.000-12",
+      "name": "Maria Souza",
+      "properties": [
+        {
+          "id": 1,
+          "name": "Fazenda Sol Poente",
+          "city": "Ribeirão Preto",
+          "state": "SP",
+          "totalArea": 100,
+          "agriculturalArea": 70,
+          "vegetationArea": 30,
+          "crops": [
+            {
+              "id": 1,
+              "season": "2021",
+              "culture": "Soja"
+            },
+            {
+              "id": 2,
+              "season": "2022",
+              "culture": "Milho"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Fazenda Sol Vermelho",
+          "city": "Ribeirão Preto",
+          "state": "SP",
+          "totalArea": 100,
+          "agriculturalArea": 70,
+          "vegetationArea": 30,
+          "crops": [
+            {
+              "id": 1,
+              "season": "2021",
+              "culture": "Soja"
+            },
+            {
+              "id": 2,
+              "season": "2022",
+              "culture": "Milho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cpfOrCnpj": "789.123.456-78",
+      "name": "Carlos Oliveira",
+      "properties": []
+    },
+    {
+      "id": 4,
+      "cpfOrCnpj": "012.345.678-90",
+      "name": "Ana Beatriz",
+      "properties": [
+        {
+          "id": 1,
+          "name": "Fazenda Boa Vista",
+          "city": "Campinas",
+          "state": "SP",
+          "totalArea": 50,
+          "agriculturalArea": 20,
+          "vegetationArea": 30,
+          "crops": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "cpfOrCnpj": "234.567.890-12",
+      "name": "Pedro Santos",
+      "properties": []
+    },
+    {
+      "id": 6,
+      "cpfOrCnpj": "987.654.321-00",
+      "name": "Júlia Almeida",
+      "properties": [
+        {
+          "id": 1,
+          "name": "Fazenda Horizonte",
+          "city": "Uberlândia",
+          "state": "MG",
+          "totalArea": 120,
+          "agriculturalArea": 80,
+          "vegetationArea": 40,
+          "crops": [
+            {
+              "id": 1,
+              "season": "2023",
+              "culture": "Cana-de-açúcar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "cpfOrCnpj": "321.456.789-09",
+      "name": "Marcos Vinícius",
+      "properties": [
+        {
+          "id": 1,
+          "name": "Fazenda Recanto Verde",
+          "city": "Sorocaba",
+          "state": "SP",
+          "totalArea": 90,
+          "agriculturalArea": 50,
+          "vegetationArea": 40,
+          "crops": [
+            {
+              "id": 1,
+              "season": "2022",
+              "culture": "Café"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "cpfOrCnpj": "654.321.987-06",
+      "name": "Gabriel Moreira",
+      "properties": []
+    },
+    {
+      "id": 9,
+      "cpfOrCnpj": "123.789.456-11",
+      "name": "Lucas Matos",
+      "properties": [
+        {
+          "id": 1,
+          "name": "Fazenda Campo Belo",
+          "city": "Barretos",
+          "state": "SP",
+          "totalArea": 200,
+          "agriculturalArea": 120,
+          "vegetationArea": 80,
+          "crops": [
+            {
+              "id": 1,
+              "season": "2021",
+              "culture": "Milho"
+            },
+            {
+              "id": 2,
+              "season": "2023",
+              "culture": "Soja"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Fazenda Água Viva",
+          "city": "Londrina",
+          "state": "PR",
+          "totalArea": 150,
+          "agriculturalArea": 90,
+          "vegetationArea": 60,
+          "crops": []
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "cpfOrCnpj": "987.321.654-00",
+      "name": "Fernanda Silva",
+      "properties": []
+    },
+    {
+      "id": 11,
+      "cpfOrCnpj": "852.963.741-01",
+      "name": "Renato Costa",
+      "properties": [
+        {
+          "id": 1,
+          "name": "Fazenda Pôr do Sol",
+          "city": "Franca",
+          "state": "SP",
+          "totalArea": 180,
+          "agriculturalArea": 120,
+          "vegetationArea": 60,
+          "crops": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "cpfOrCnpj": "741.852.963-00",
+      "name": "Camila Torres",
+      "properties": []
+    },
+    {
+      "id": 13,
+      "cpfOrCnpj": "963.852.741-09",
+      "name": "Roberto Lima",
+      "properties": [
+        {
+          "id": 1,
+          "name": "Fazenda Terra Boa",
+          "city": "Goiânia",
+          "state": "GO",
+          "totalArea": 300,
+          "agriculturalArea": 200,
+          "vegetationArea": 100,
+          "crops": [
+            {
+              "id": 1,
+              "season": "2023",
+              "culture": "Algodão"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "cpfOrCnpj": "159.753.486-00",
+      "name": "Lúcia Barreto",
+      "properties": []
+    },
+    {
+      "id": 15,
+      "cpfOrCnpj": "258.741.369-00",
+      "name": "Henrique Rezende",
+      "properties": [
+        {
+          "id": 1,
+          "name": "Fazenda Nova Esperança",
+          "city": "Campo Grande",
+          "state": "MS",
+          "totalArea": 250,
+          "agriculturalArea": 150,
+          "vegetationArea": 100,
+          "crops": []
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "cpfOrCnpj": "456.123.789-00",
+      "name": "Beatriz Souza",
+      "properties": []
+    },
+    {
+      "id": 17,
+      "cpfOrCnpj": "852.654.321-00",
+      "name": "Gustavo Ferreira",
+      "properties": [
+        {
+          "id": 1,
+          "name": "Fazenda Paraíso",
+          "city": "Palmas",
+          "state": "TO",
+          "totalArea": 500,
+          "agriculturalArea": 300,
+          "vegetationArea": 200,
+          "crops": [
+            {
+              "id": 1,
+              "season": "2022",
+              "culture": "Milho"
+            },
+            {
+              "id": 2,
+              "season": "2023",
+              "culture": "Soja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "cpfOrCnpj": "636.341.000-28",
+      "name": "Testes",
+      "properties": []
+    },
+    {
+      "id": 19,
+      "cpfOrCnpj": "636.341.000-45",
+      "name": "Jéssica Aragão",
+      "properties": []
+    },
+    {
+      "id": 20,
+      "cpfOrCnpj": "111.555.444-66",
+      "name": "Julia Adub",
+      "properties": []
+    }
+  ]
+}
