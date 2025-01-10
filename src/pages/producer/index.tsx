@@ -48,7 +48,7 @@ const ProducersPage = () => {
       } else {
         return [
           {
-            id: `${producer.id}-empty`,
+            id: 0,
             producerId: producer.id,
             producerName: producer.name,
             cpfCnpj: producer.cpfOrCnpj,
